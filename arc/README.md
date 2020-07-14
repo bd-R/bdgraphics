@@ -4,8 +4,10 @@
 ## bddwc
 
 
-
-| SVG file           | PNG file           | PNG file size:2x           |
-|--------------------------|:------------------------:|-------------------------:|
-![](https://raw.githubusercontent.com/bd-R/bdgraphics/master/arc/bddwc/arc_bddwc.svg)  |  ![](https://raw.githubusercontent.com/bd-R/bdgraphics/master/arc/bddwc/arc_bddwc.png)  |
-![](https://raw.githubusercontent.com/bd-R/bdgraphics/master/arc/bddwc/arc_bddwc@2x.png)  |
+|  SVG file  |  PNG file  |  PNG file; size @2x  |
+|----|----|----|
+| <img width=400% 
+     src="https://raw.githubusercontent.com/bd-R/bdgraphics/master/arc/bddwc/arc_bddwc.svg"/> | <img width=40% 
+     src="https://raw.githubusercontent.com/bd-R/bdgraphics/master/arc/bddwc/arc_bddwc.png"/> | <img width=20% 
+     src="https://raw.githubusercontent.com/bd-R/bdgraphics/master/arc/bddwc/arc_bddwc@2x.png"/> |
+     
